@@ -1,18 +1,26 @@
-package buildbrand.startappzke.payapp;
+package buildbrand.startappzke.payapp.activities;
 
-import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
+
+import buildbrand.startappzke.payapp.R;
 
 
 public class MainActivity extends AppCompatActivity {
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+
     }
+
+
+
 }
 
 
